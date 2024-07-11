@@ -1,0 +1,1 @@
+sp_fkeys 'VU_FACTURA'
